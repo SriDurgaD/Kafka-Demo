@@ -6,5 +6,12 @@ Installation link : https://www.apache.org/dyn/closer.cgi?path=/kafka/3.8.0/kafk
 Extract the tar file
 
 Start the zookeeper and kafka server using the following commands
+
 bin/zookeeper-server-start.sh config/zookeeper.properties
 bin/kafka-server-start.sh config/server.properties
+
+Start the Spring boot application.
+
+Use the endpoint /send to send and receive the message.
+
+
