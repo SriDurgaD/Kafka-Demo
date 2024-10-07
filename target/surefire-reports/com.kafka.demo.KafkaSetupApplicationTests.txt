@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kafka.demo.KafkaSetupApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.355 s -- in com.kafka.demo.KafkaSetupApplicationTests

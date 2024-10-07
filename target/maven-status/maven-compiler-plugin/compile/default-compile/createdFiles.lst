@@ -1,0 +1,4 @@
+KafkaProducer.class
+com/kafka/demo/KafkaSetupApplication.class
+KafkaConsumer.class
+MessageController.class
