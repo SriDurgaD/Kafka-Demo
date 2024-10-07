@@ -1,6 +1,6 @@
 # Kafka-Demo
 
-Intall Kakfa in your system 
+Intall Kafka in your system 
 Installation link : https://www.apache.org/dyn/closer.cgi?path=/kafka/3.8.0/kafka_2.13-3.8.0.tgz
 
 Extract the tar file
